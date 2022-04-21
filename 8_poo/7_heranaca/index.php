@@ -21,7 +21,6 @@ class Humano
     }
 }
 
-
 class Programador extends Humano
 {
     public function acessaAndar()

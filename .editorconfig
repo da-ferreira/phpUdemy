@@ -12,5 +12,5 @@ end_of_line = lf
 [*.md]
 trim_trailing_whitespace = false
 
-[*.txt]
+[*.{txt,css,html}]
 insert_final_newline = false
